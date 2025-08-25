@@ -1,4 +1,4 @@
-package JavaConceptExample.InterFace_Example;
+package JavaConceptExample.InterFace.ExampleOne;
 
 public class CodeDemo {
 

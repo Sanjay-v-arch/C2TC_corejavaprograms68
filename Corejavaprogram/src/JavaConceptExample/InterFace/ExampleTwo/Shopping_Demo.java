@@ -1,4 +1,4 @@
-package JavaConceptExample.Interface_ShoppingMall;
+package JavaConceptExample.InterFace.ExampleTwo;
 
 public class Shopping_Demo {
 	public static void main(String[] args) {

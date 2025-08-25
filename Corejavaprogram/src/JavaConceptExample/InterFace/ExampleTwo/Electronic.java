@@ -1,4 +1,4 @@
-package JavaConceptExample.Interface_ShoppingMall;
+package JavaConceptExample.InterFace.ExampleTwo;
 
 public class Electronic implements Shopping{
 	public void Purch() {
